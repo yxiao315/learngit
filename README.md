@@ -7,4 +7,6 @@ git commit -m "something modifed"
 # git clone both http and ssh works on laptop with no proxy
 # internet not stable
 # vpn
-# on desktop
+# some change
+# https push
+# https push on desktop
