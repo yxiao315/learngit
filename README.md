@@ -4,3 +4,4 @@ some change after rename ssh key title.
 add for desktop.
 add for desktop test.
 # test error
+# test for add core in .gitconfig
