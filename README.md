@@ -1,7 +1,10 @@
 # Learn git
 This is in local
 some change after rename ssh key title.
-add for desktop.
-add for desktop test.
-# test error
-# test for add core in .gitconfig
+add something
+git commit -m "something modifed"
+# start a new header
+# git clone both http and ssh works on laptop with no proxy
+# internet not stable
+# vpn
+# on desktop
